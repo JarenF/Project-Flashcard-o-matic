@@ -1,6 +1,6 @@
 import React, { useState } from "react"
 import { Link, useHistory } from 'react-router-dom'
-import { createDeck } from '../src/utils/api/index.js'
+import { createDeck } from '.../src/utils/api/index.js'
 
 
 function CreateDeck({updateDecks}) {
